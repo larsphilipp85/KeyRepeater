@@ -1,0 +1,41 @@
+﻿<Window x:Class="KeyRepeater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeyRepeater"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <StackPanel>
+        <GroupBox Header="Einstellungen">
+            <Grid>
+                <Grid.Resources>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Height" Value="48" />
+                        <Setter Property="TextAlignment" Value="Left" />
+                        <Setter Property="TextBlock.Foreground" Value="White" />
+                        <Setter Property="TextElement.FontSize" Value="18" />
+                        <Setter Property="TextElement.FontWeight" Value="SemiBold" />
+                        <Setter Property="Background" Value="LightBlue"/>
+                        <Setter Property="Margin" Value="6,6,6,0" />
+                    </Style>
+                </Grid.Resources>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="175" />
+                    <ColumnDefinition Width="100" />
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Taste:" />
+                    <TextBlock Text="Intervall [ms]:" />
+                    <TextBlock Text="Wiederholungen:" />
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <TextBox x:Name="TBKey" />
+                  <TextBox x:Name="TBIntervall" />
+                  <TextBox x:Name="TBRepeats" />
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <Label Content="Dieses Tool wiederholt die eingestellten Tastatur-Tastenschläge." />
+    </StackPanel>
+</Window>

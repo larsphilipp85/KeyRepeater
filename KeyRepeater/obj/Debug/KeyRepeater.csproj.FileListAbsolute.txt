@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\bin\Debug\KeyRepeater.exe.config
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\bin\Debug\KeyRepeater.exe
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\bin\Debug\KeyRepeater.pdb
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.csprojAssemblyReference.cache
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\MainWindow.g.cs
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\App.g.cs
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater_MarkupCompile.cache
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater_MarkupCompile.lref
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\MainWindow.baml
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.g.resources
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.Properties.Resources.resources
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.csproj.GenerateResource.cache
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.exe
+C:\Users\phili\OneDrive\Dokumente\GitHub\KeyRepeater\KeyRepeater\obj\Debug\KeyRepeater.pdb
